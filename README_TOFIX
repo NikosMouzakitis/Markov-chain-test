@@ -1,0 +1,6 @@
+	
+	MarkovChain.h and .cpp are downloaded from Github:
+
+		https://github.com/aitoralmeida/markovduino
+
+TO-BE FIXED::If invalid ID used, calculation of window probability will crash for now.
